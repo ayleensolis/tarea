@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 45px;
+}
+h3{
+    color: coral;
+}
+h1{
+    color: brown;
+}
+
+h2{
+    color: chocolate;
+}
+h4{
+    color: darksalmon;
+}
